@@ -1,6 +1,6 @@
 # studentgradetablevue
 
-> A Vue.js project
+> A student grade table built using Vue. 
 
 ## Build Setup
 
